@@ -256,10 +256,10 @@ function Bai9(dong) {
             console.log(string);
     }
 }
-Bai3(5);
-Bai4(5);
-Bai5(5);
-Bai6(5);
-Bai7(5);
-Bai8(5);
+// Bai3(5);
+// Bai4(5);
+// Bai5(5);
+// Bai6(5);
+// Bai7(5);
+// Bai8(5);
 Bai9(5);
